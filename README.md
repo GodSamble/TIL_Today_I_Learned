@@ -7,7 +7,7 @@
 |날짜 정리완료 시 ✅|내용|
 |----|---|
 |2024.09.16 ~ 2023.09.17|[\[RxSwift\] 곰튀김](해당주소넣어야함)|
-|2024.09.17|[\[UnitTest\] 유닛테스트(야곰)](해당주소넣어야함)|
+|2024.09.17✅|[\[UnitTest\] 유닛테스트(실습 & 블로그정리)](https://velog.io/@osgneb8359/Unit-Test)|
 |2024.09.18✅|[\[RxSwift\] 곰튀김 -> Subject / Relay / Driver](https://www.notion.so/Subject-Relay-Driver-10d2179de525809eae54d04f7ba629a7?pvs=4)|
 |2024.09.19|[\[RxSwift\] RxSwift로 네트워크/가져다 쓰기 리팩토링 완료](해당주소넣어야함)|
 |2024.09.20|[\[RxSwift\] MVVM(회고글)](해당주소넣어야함)|
