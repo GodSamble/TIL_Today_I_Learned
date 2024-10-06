@@ -14,7 +14,7 @@
 |2024.09.21✅|[\[RxSwift\] RxSwift에서 SugarAPI란](https://www.notion.so/Sugar-API-1032179de525805ab674d9e498993e17?pvs=4)|
 |2024.09.22✅|[\[RxSwift\] 곰튀김 -> Subject / Relay / Driver](https://www.notion.so/Subject-Relay-Driver-10d2179de525809eae54d04f7ba629a7?pvs=4)|
 |2024.09.23|[\[RxSwift\] RxSwift로 네트워크/가져다 쓰기 리팩토링 완료](해당주소넣어야함)|
-|2024.09.24|[\[RxSwift\] MVVM(회고글)](해당주소넣어야함)|
+|2024.09.24✅|[\[Architecture\] MVVM(ViewModel에 관한 회고글)](https://velog.io/@osgneb8359/ViewModel도-코드를-쓰는-사람-나름이다)|
 |2024.09.25|[\[CleanArc\] 클린아키텍처 이론 완벽정리](해당주소넣어야함)|
 |2024.09.26✅|[\[CleanArc\] 전역변수를 이용한 매니저를 냅두고, 왜 클린아키텍처를 지향해야하는가?](https://www.notion.so/1062179de52580d39960f24fbb2a3882?pvs=4)|
 |2024.09.27✅|[\[CleanArc\] 클린아키텍처 애블바디 일부에 도메인-어플리케이션-데이터 레이어 완벽 적용 시키기](https://www.notion.so/Clean-Arc-Usecase-1062179de525804d95a7de1a22d4d7ac?pvs=4)|
