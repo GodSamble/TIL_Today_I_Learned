@@ -21,7 +21,7 @@
 |2024.09.30✅|[\[Async Await\] 콜백함수를 가독성 좋게 바꾸기](https://velog.io/@osgneb8359/iOS.-API-async-await을-이용한-네트워크-코드-이쁘게-작성하기)|
 |2024.10.01✅|[\[운영체제 + 교착상태\] 운영체제 정리 및 교착상태에서 iOS개발자는 어떻게 해야하는가](https://velog.io/@osgneb8359/운영체제-iOS-교착상태에서-우리는-어떻게-해결할-수-있을까)|
 |2024.11.09✅|[\[Swift\] Swift Performance](https://velog.io/@osgneb8359/Swift-Performance)|
-
+|2024.11.20✅|[\[SideProject\] DesignSystem을 사이드 프로젝트에 도입하자]()|
 
 <br>
 
