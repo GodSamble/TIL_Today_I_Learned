@@ -23,7 +23,7 @@
 |2024.11.09✅|[\[Swift\] Swift Performance](https://velog.io/@osgneb8359/Swift-Performance)|
 |2024.11.20|[\[SideProject\] DesignSystem을 사이드 프로젝트에 도입하자]()|
 |2024.12.5~ 12.9|[\[면접\] 면접 주간]()|
-
+|2024.12.15|[\[Concurrency + Rx 스터디 진행\]()|
 <br>
 
 그 이전 내용을 보려면 아래 노션 링크로 ...
