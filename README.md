@@ -28,16 +28,19 @@
 
 ## 네이버웹툰 iOS 학습 로그
 
+버딩크 포트폴리오(UIKit · RxSwift · Clean Architecture · AVPlayer)를 면접에서 "왜?"까지 설명할 수 있는 이론으로 연결하는 학습 기록입니다. 지원 목표 시점은 2028년 1~2월(전역 2028.03)이며, 자세한 내용은 [`naver-webtoon-ios/`](naver-webtoon-ios/00-overview.md)에 정리합니다.
+
 ### 진도 체크
-- [ ] 1장
-- [ ] 2장
-- [ ] 3장
-- [ ] 4장
-- [ ] 5장
-- [ ] 6장
-- [ ] 7장
-- [ ] 8장
-- [ ] 9장
+- [ ] [1장. Swift 언어 심화](naver-webtoon-ios/01-swift-deep-dive.md) : ARC, 값/참조 타입, some/any, 메서드 디스패치
+- [ ] [2장. 동시성 (GCD → Swift Concurrency)](naver-webtoon-ios/02-concurrency.md) : async/await, actor, Swift 6.2
+- [ ] [3장. UIKit 내부 원리 & 리스트 성능](naver-webtoon-ios/03-uikit-performance.md) : 렌더 루프, Diffable, 이미지 메모리
+- [ ] [4장. 반응형 프로그래밍 & SwiftUI](naver-webtoon-ios/04-reactive-swiftui.md) : RxSwift 심화, Combine, Observation
+- [ ] [5장. 아키텍처 · 모듈화 · 테스트](naver-webtoon-ios/05-architecture-testing.md) : Clean Architecture, SPM, Swift Testing
+- [ ] [6장. 콘텐츠 뷰어 · 미디어 · 결제](naver-webtoon-ios/06-viewer-media-payment.md) : 웹툰 뷰어, AVFoundation, StoreKit 2
+- [ ] [7장. 성능 측정 · 보안 · 배포](naver-webtoon-ios/07-performance-security-release.md) : Instruments, Keychain, CI/CD
+- [ ] [8장. CS 기본기 & Swift 라이브 코딩](naver-webtoon-ios/08-cs-live-coding.md) : 자료구조, OS, 네트워크
+- [ ] [9장. 공고 B 보강](naver-webtoon-ios/09-posting-b.md) : ePub, 다국어, Obj-C, Storyboard, 패턴, FP
+- [ ] [부록. 면접 스토리 & 15개월 로드맵](naver-webtoon-ios/appendix.md)
 
 <br>
 
